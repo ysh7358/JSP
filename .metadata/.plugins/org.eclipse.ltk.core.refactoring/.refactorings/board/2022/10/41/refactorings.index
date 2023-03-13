@@ -1,0 +1,11 @@
+1664863049653	Rename package 'board'
+1664863067427	Rename package 'com.milestone.app.board'
+1664864001136	Rename package 'com.koreait.app.board'
+1664864035026	Copy package
+1664864046450	Delete element
+1664864276603	Rename package 'com.koreait.mybatis.config'
+1664864340874	Rename package 'com.koreait.mybatis.member'
+1664864599661	Rename resource 'UserMapper.xml'
+1664867979975	Rename type 'JoinController'
+1664871285391	Rename package 'com.koreait.app.board'
+1664929443917	Move 'assets' to 'WebContent'

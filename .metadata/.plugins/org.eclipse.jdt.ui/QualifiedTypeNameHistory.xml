@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="vo.UserVO"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
+    <fullyQualifiedTypeName name="java.io.Reader"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+    <fullyQualifiedTypeName name="com.koreait.mybatis.config.MyBatisConfig"/>
+    <fullyQualifiedTypeName name="com.koreait.app.Result"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="com.koreait.app.reply.WriteOkController"/>
+    <fullyQualifiedTypeName name="com.koreait.app.reply.dao.ReplyDAO"/>
+    <fullyQualifiedTypeName name="com.koreait.app.reply.vo.ReplyVO"/>
+    <fullyQualifiedTypeName name="com.koreait.app.Execute"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.koreait.app.product.CreateController"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
